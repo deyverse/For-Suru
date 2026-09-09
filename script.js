@@ -119,7 +119,7 @@ function updateMusicButton() {
 // ------------------------------------------------------------
 const messages = [
   "I don't know exactly when it happened...",
-  "But somewhere between our conversations, silly moments, little fights and endless talks...",
+  "But somewhere between our conversations, silly moments, cute nok-jhoks and endless talks...",
   "You became someone incredibly special to me.",
   "And now, whenever I think about happiness...",
   "Somehow, I find you there. ❤️"
